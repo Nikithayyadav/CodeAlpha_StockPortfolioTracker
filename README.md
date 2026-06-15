@@ -8,7 +8,7 @@
 A Python script to calculate total investment value for a portfolio of stocks.
 
 ## 🔹 Features
-- User inputs stock symbols and quantities
+- User inputs stock symbols and quantities 
 - Uses predefined dictionary for prices
 - Calculates and displays total investment
 - Optionally saves results in `.txt` file
