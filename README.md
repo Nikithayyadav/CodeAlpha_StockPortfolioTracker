@@ -3,7 +3,7 @@
 
 ### ✅ 2. **Stock Portfolio Tracker — `README.md`**
 ```markdown
-# CodeAlpha_StockPortfolioTracker 📊
+# CodeAlpha_StockPortfolioTracker 📊 
 
 A Python script to calculate total investment value for a portfolio of stocks.
 
