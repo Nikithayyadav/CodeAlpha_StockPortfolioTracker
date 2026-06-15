@@ -6,7 +6,7 @@
 # CodeAlpha_StockPortfolioTracker 📊 
 
 A Python script to calculate total investment value for a portfolio of stocks.
-
+ 
 ## 🔹 Features 
 - User inputs stock symbols and quantities 
 - Uses predefined dictionary for prices
