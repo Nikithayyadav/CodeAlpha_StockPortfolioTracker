@@ -2,7 +2,7 @@
 stock_prices = {
     "AAPL": 180,
     "TSLA": 250,
-    "GOOGL": 2800,
+    "GOOGL": 2800, 
     "MSFT": 320,
     "INFY": 1450
 }
