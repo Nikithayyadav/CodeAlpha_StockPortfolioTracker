@@ -14,7 +14,7 @@ A Python script to calculate total investment value for a portfolio of stocks.
 - Optionally saves results in `.txt` file
 
 ## 💻 Technologies Used
-- Python, Dictionary, I/O, File Handling
+- Python, Dictionary, I/O, File Handling 
 
 ## 📁 Run the Code
 ```bash
