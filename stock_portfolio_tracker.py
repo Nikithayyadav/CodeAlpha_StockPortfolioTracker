@@ -6,7 +6,7 @@ stock_prices = {
     "MSFT": 320,
     "INFY": 1450
 }
-
+ 
 # Step 2: User input
 portfolio = {}
 total_investment = 0
